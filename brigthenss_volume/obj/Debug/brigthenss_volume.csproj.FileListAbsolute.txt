@@ -1,0 +1,9 @@
+D:\C#\brigthenss_volume\brigthenss_volume\bin\Debug\brigthenss_volume.exe.config
+D:\C#\brigthenss_volume\brigthenss_volume\bin\Debug\brigthenss_volume.exe
+D:\C#\brigthenss_volume\brigthenss_volume\bin\Debug\brigthenss_volume.pdb
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.csprojResolveAssemblyReference.cache
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.Form1.resources
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.Properties.Resources.resources
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.csproj.GenerateResource.Cache
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.exe
+D:\C#\brigthenss_volume\brigthenss_volume\obj\Debug\brigthenss_volume.pdb
